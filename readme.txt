@@ -3,7 +3,7 @@
 
 - Contatti -
 
-Mail:  	paolondon@gmail.com
+  	paolondon at gmail dot com
 Skype: 	paolovag
 Lab:	MakeRn, via Cagni 14, Rimini, Italia
 
