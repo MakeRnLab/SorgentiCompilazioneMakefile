@@ -1,0 +1,1 @@
+char saluto[] = "Ciao da dati.h";

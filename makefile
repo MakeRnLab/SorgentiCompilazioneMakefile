@@ -32,7 +32,7 @@ mioProg : $(objects)
 
 # cosa fare per ottenere il target raddoppia.o
 # n.b. il file viene solo compilato
-raddoppia.o : raddoppia.c paolo.h # da chi dipende raddoppia.o
+raddoppia.o : raddoppia.c dati.h # da chi dipende raddoppia.o
 	gcc -c raddoppia.c
 
 # cosa fare per ottenere main.o
